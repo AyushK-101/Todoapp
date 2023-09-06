@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "title": "Click on \"New Task\" to add new task",
+      "body": "Have fun",
+      "author": "Coding",
+      "checked": false,
+      "id": 1
+    },
+    {
+      "title": "Click Me to see my description",
+      "body": "Well you are already here",
+      "author": "Coding",
+      "checked": false,
+      "id": 2
+    },
+    {
+      "title": "1km Running",
+      "body": "6:00 am ",
+      "author": "Exercise",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "title": "Open Bank account",
+      "body": "Family joint account",
+      "author": "Finance",
+      "checked": true,
+      "id": 4
+    }
+  ]
+}
